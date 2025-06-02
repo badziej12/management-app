@@ -2,6 +2,8 @@
 
 A simple project and task management app built with React, Vite, and Tailwind CSS.
 
+This application was one of the projects created between January and May 2025. Just got them pushed at once to the Github.
+
 ## Features
 
 - Create, view, and delete projects
